@@ -1,2 +1,2 @@
-# html_css_js_tiny_projects
+# Tiny HTML, CSS and JavaScript proyects
 Tiny html, css and js projects for fun
